@@ -13,6 +13,7 @@ BLZ Foundry is an independent Product Foundry for turning brave ideas into usefu
 - **[Project swarms](https://blzfoundry.com/swarm)** — bounded teams built around a proof
 - **[Consulting](https://blzfoundry.com/consulting)** — product, AI, systems, and operating-model work
 - **[Collaborators](https://blzfoundry.com/roles)** — the collaborator network
+- **[How we check in work](https://github.com/BLZFoundry/.github/blob/main/CONTRIBUTING.md)** — the plain-English branch, commit, PR, merge, and release habit
 
 ## GitHub map
 
